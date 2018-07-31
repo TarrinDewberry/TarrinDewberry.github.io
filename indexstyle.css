@@ -8,22 +8,13 @@ font-size:120px;}
   p{display:block;
     text-align: center;
     font-family;verdanna;
-    font-size:36px;}
+    font-size:36px;
+color:white;}
     div{
       text-align:center;
       color:white;
       font-size:75px;}
 
-  .sidenav {
-      height: 100%;
-      width: 160px;
-      position: fixed;
-      z-index: 1;
-      top: 0;
-      left: 0;
-      background-color: #111;
-      overflow-x: hidden;
-      padding-top: 20px;
   }
       h1.thick {
     font-weight: bold;
