@@ -3,12 +3,12 @@ h1{
  color:white;
   text-align:center;
 font-size:120px;}
-  p {display:block;
+  p{display:block;
     text-align: center;
     font-family;verdanna;
     font-size:36px;
     color:white;}
-      h1.thick {
+h1.thick {
     font-weight: bold;
 }
 p.thicker {
