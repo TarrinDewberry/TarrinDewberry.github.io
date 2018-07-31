@@ -1,0 +1,41 @@
+@media only screen and(max-width:550px; ) {background-scolor:pink;
+
+}
+h1{
+ color:white;
+  text-align:center;
+font-size:120px;}
+  p{display:block;
+    text-align: center;
+    font-family;verdanna;
+    font-size:36px;}
+    div{
+      text-align:center;
+      color:white;
+      font-size:75px;}
+
+  .sidenav {
+      height: 100%;
+      width: 160px;
+      position: fixed;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      background-color: #111;
+      overflow-x: hidden;
+      padding-top: 20px;
+  }
+      h1.thick {
+    font-weight: bold;
+}
+p.thicker {
+    font-weight: 2000;
+}
+
+    img {display:block;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 500px;
+    margin-left: 400px;
+}
+#blue{color:rgb(66,244,209);
