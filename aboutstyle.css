@@ -1,18 +1,24 @@
-h1{
-  color:white;
+h1{font-family: 'Comfortaa', cursive;
+  color: rgb(26,165,152);
   text-align:center;
 font-size:120px;}
-p{color:white;
+p{font-family: 'Comfortaa', cursive;
+color:white;
     text-align:center;
     font-family;verdanna;
     font-size:36px;}
-nav{
+nav{ background-color:rgb(26,165,152);
       text-align:center;
       color:white;
-      font-size:40px;
-    }
-    ul{color:white;
-      font-size:36px;
-      text-align: center;
-      
+      font-size:80px;}
+div{background-color: rgb(114,130,129);}
+    .column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px;}
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
     }
