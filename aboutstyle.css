@@ -22,6 +22,8 @@ div{background-color: rgb(114,130,129);}
         display: table;
         clear: both;
     }
-img{height:80px;
-  width:50%;}
+img{float:right;
+margin-top:100;
+margin-bottom:100;
+}
   
