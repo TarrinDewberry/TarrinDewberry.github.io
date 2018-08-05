@@ -6,7 +6,7 @@ p{font-family: 'Comfortaa', cursive;
 color:white;
     text-align:center;
     font-family;verdanna;
-    font-size:36px;}
+    font-size:80px;}
 nav{ background-color:rgb(26,165,152);
       text-align:center;
       color:white;
@@ -22,3 +22,6 @@ div{background-color: rgb(114,130,129);}
         display: table;
         clear: both;
     }
+img{height:80px;
+  width:50%;}
+  
