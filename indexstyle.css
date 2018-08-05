@@ -1,25 +1,44 @@
 
-h1{
- color:white;
+h1{font-family: 'Comfortaa', cursive;
+ color:rgb(26,165,152);
   text-align:center;
 font-size:120px;}
-  #white{color:white;
-   display:block;
+  p{ color: rgb(26,165,152);
+    font-family: 'Comfortaa', cursive;
+    display:block;
     text-align: center;
     font-family;verdanna;
-    font-size:36px;
-}
-h1.thick {
+    font-size:36px;}
+    div{
+      text-align:center;
+      color:white;
+      font-size:75px;}
+
+      nav{text-align: center;
+        background-color: rgb(26, 165, 152);
+
+
+        font-size: 80px;
+        overflow-x: hidden;
+      padding-top:14px 16px;
+  }
+      h1.thick {
     font-weight: bold;
 }
 p.thicker {
     font-weight: 2000;
 }
-
-    img {display:block;
-    margin-top: 50px;
-    margin-bottom: 100px;
-    margin-right: 500px;
-    margin-left: 400px;
+.column {
+    float: right;
+    width: 50%;
 }
-#blue{color:rgb(66,244,209);
+.row:after {
+    content: "Black is Beautiful";
+    display: table;
+    clear: both;}
+
+    #center{
+      margin-top: 100px;
+    margin-bottom: 100px;
+  margin-left: 1000px;
+margin-right: 1300px;}
