@@ -1,4 +1,7 @@
-
+media all and(orientation: landscape){ text-align:center;
+font-size:60px;
+font-family:Comfortaa',cursive;
+color:grey;}
 h1{font-family: 'Comfortaa', cursive;
  color:rgb(26,165,152);
   text-align:center;
