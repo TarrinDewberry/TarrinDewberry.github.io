@@ -12,18 +12,8 @@ nav{ background-color:rgb(26,165,152);
       color:white;
       font-size:80px;}
 div{background-color: rgb(114,130,129);}
-    .column {
-    float: left;
-    width: 33.33%;
-    padding: 10px;
-    height: 300px;}
-    .row:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
-img{width: 40%;
-      height: auto;
-  }
+    p{
+      float: right;}
+img{float:left;}
 
   
