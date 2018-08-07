@@ -1,5 +1,4 @@
 
-
 h1{font-family: 'Comfortaa', cursive;
  color:rgb(26,165,152);
   text-align:center;
@@ -9,7 +8,7 @@ font-size:120px;}
     display:block;
     text-align: center;
     font-family;verdanna;
-    font-size:36px;}
+    font-size:60px;}
     div{
       text-align:center;
       color:white;
@@ -35,3 +34,10 @@ button{background-color: rgb(114,130,129);
     font-size: 40px;
     margin: 4px 2px;
   border-radius: 50%;}
+  img{margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 1300px;
+  margin-left: 1000px;
+  height:30%;
+  width:auto;}
+
