@@ -9,8 +9,7 @@ font-size:120px;}
     text-align: center;
     font-family;verdanna;
     font-size:36px;}
-    iframe{margin-left: 700;
-     margin-right:900;}
+    div{background-color: rgb(114,130,149);}
 
       nav{text-align: center;
         background-color: rgb(26, 165, 152);
@@ -23,3 +22,7 @@ font-size:120px;}
       h1.thick {
     font-weight: bold;
 }
+iframe{margin-top: 200px;
+margin-bottom: 200px;
+margin-right: 1400px;
+margin-left:1200px; }
