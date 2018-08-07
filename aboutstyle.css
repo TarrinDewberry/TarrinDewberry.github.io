@@ -3,22 +3,21 @@ h1{font-family: 'Comfortaa', cursive;
   text-align:center;
 font-size:120px;}
 p{font-family: 'Comfortaa', cursive;
-color:rgb(36,614,209);
+color:white;
     text-align:center;
+    font-family;verdanna;
     font-size:80px;}
 nav{ background-color:rgb(26,165,152);
       text-align:center;
       color:white;
       font-size:80px;}
-div{background-color: rgb(114,130,129);}
-    p{
-      float: right;}
-
-    img {margin-right: 700px;
-      margin-left: 100px;
-      width: 40%;
-      height: auto;
-  }
-
+div{background-color: rgb(114,130,129);
+font-size: 80px;}
+img{margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 800px;
+margin-left: 1000px;
+height:30%;
+width:auto;}
 
   
