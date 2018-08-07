@@ -1,8 +1,4 @@
-@media all and(orientation: landscape)
-{ text-align:center;
-font-size:60px;
-font-family:Comfortaa',cursive;
-color:grey;}
+
 h1{font-family: 'Comfortaa', cursive;
  color:rgb(26,165,152);
   text-align:center;
@@ -11,8 +7,8 @@ font-size:120px;}
     font-family: 'Comfortaa', cursive;
     display:block;
     text-align: center;
-    font-family;verdanna;
-    font-size:36px;}
+
+    font-size:60px;}
     div{
       text-align:center;
       color:white;
@@ -37,9 +33,9 @@ p.thicker {
     img{
       margin-top: 100px;
     margin-bottom: 100px;
-  margin-left: 700px;
-margin-right: 800px;}
+  margin-left: 100px;
+margin-right: 200px;}
 #center{margin-top: 100px;
 margin-bottom: 100px;
-margin-left: 700px;
-margin-right:800px;}
+margin-left: 100px;
+margin-right:200px;}
