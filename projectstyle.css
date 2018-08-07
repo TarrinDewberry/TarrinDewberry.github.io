@@ -9,18 +9,13 @@ font-size:120px;}
     display:block;
     text-align: center;
     font-family;verdanna;
-    font-size:36px;}
-    div{
-      text-align:center;
-      color:white;
-      font-size:75px;}
-
+    font-size:60px;}
+ 
       nav{text-align: center;
         background-color: rgb(26, 165, 152);
   font-size: 100px;
         overflow-x: hidden;
-      padding-top:14px 16px;
-  }
+      padding-top:14px 16px;}
       h1.thick {
     font-weight: bold;
 }
