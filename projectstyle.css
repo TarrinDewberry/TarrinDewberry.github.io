@@ -1,4 +1,5 @@
 
+
 h1{font-family: 'Comfortaa', cursive;
  color:rgb(26,165,152);
   text-align:center;
@@ -16,7 +17,7 @@ font-size:120px;}
 
       nav{text-align: center;
         background-color: rgb(26, 165, 152);
-        font-size: 80px;
+  font-size: 80px;
         overflow-x: hidden;
       padding-top:14px 16px;
   }
@@ -26,3 +27,10 @@ font-size:120px;}
 p.thicker {
     font-weight: 2000;
 }
+img{margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 900px;
+margin-left: 1100px;
+height:20%;
+width:auto;}
+
